@@ -5,4 +5,4 @@ Nochmals mehr Text
 
 Remote Commit Veränderung
 
-git checkout -b feature_MG main
+git checkout -b feature_Mg main
